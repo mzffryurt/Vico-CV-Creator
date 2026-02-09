@@ -1,0 +1,7 @@
+{
+  "name": "Vico CV Creator",
+  "description": "Profesyonel, yapay zeka destekli CV oluşturucu. Gemini 2.5 ile fotoğraf düzenleme ve içerik iyileştirme özellikleri.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
